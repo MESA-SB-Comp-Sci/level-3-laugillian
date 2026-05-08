@@ -7,9 +7,9 @@
 h1 {
     width:80vw;
     background-color:pink;
-    border:1rem solid red;
-    margin: 4rem;
-    padding:0 rem;
+    border:3vh solid red;
+    margin: 15vh;
+    padding:1vh;
 
 }
 
@@ -23,8 +23,8 @@ h1 {
     background-color:yellow;
     width:40vw;
     height:20vh;
-    margin:2rem;
-    border:1rem pink solid;
+    margin:5vw;
+    border:2vh pink solid;
 }
 
 #blue-text {
