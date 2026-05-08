@@ -4,4 +4,38 @@
     margin: 0;
 }
 
-/* write all your rules below */
+h1 {
+    width:80vw;
+    background-color:pink;
+    border:1rem solid red;
+    margin: 4rem;
+    padding:0 rem;
+
+}
+
+.firstbox {
+    background-color: aqua;
+    padding: 15vh;
+
+}
+
+.secondbox {
+    background-color:yellow;
+    width:40vw;
+    height:20vh;
+    margin:2rem;
+    border:1rem pink solid;
+}
+
+#blue-text {
+    color:blue;
+
+}
+
+.green-text{
+    color:green;
+}
+
+.purple-text{
+    color:purple;
+}
